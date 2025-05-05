@@ -12,7 +12,7 @@ const App = () => {
         {/* Login/Logout Buttons */}
         <div className="space-y-4 mb-6">
           <LoginButton />
-          
+          <LogoutButton />
         </div>
         
         {/* Profile Section */}
